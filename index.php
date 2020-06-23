@@ -23,7 +23,7 @@
         					<a class="nav-link" href="ltc2.html">Home <span class="sr-only">(current)</span></a>
       					</li>
       					<li class="nav-item">
-        					<a class="nav-link" href="ltc2.html">About</a>
+        					<a class="nav-link" href="ltc2.html">Insert</a>
       					</li>
       					<li class="nav-item dropdown">
         					<a class="nav-link dropdown-toggle" href="ltc.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Soccer Shoes</a>
@@ -36,12 +36,12 @@
         				</li>
 
         				<li class="nav-item">
-        					<a class="nav-link" href="ltc2.html">News & Blog</a>
+        					<a class="nav-link" href="ltc2.html">Update</a>
       					</li>
 
       					
       					<li class="nav-item">
-        					<a class="nav-link disabled" href="#">Help</a>
+        					<a class="nav-link disabled" href="#">View</a>
       					</li>
    					</ul>
     				<form class="form-inline my-2 my-lg-0">
@@ -113,10 +113,10 @@
 <header class="containt">
 	<div class="box-cont">
 
-		<div class="box-img"><a href="ltc.html"><img src="images/G1.png"></a></div>
-		<div class="box-img"><a href="ltc.html"><img src="images/G2.png"></a></div>
-		<div class="box-img"><a href="ltc.html"><img src="images/G3.png"></a></div>
-		<div class="box-img"><a href="ltc.html"><img src="images/G4.png"></a></div>
+		<div class="box-img"><a href="ltc.html"><img src="./images/G1.png"></a></div>
+		<div class="box-img"><a href="ltc.html"><img src="./images/G2.png"></a></div>
+		<div class="box-img"><a href="ltc.html"><img src="./images/G3.png"></a></div>
+		<div class="box-img"><a href="ltc.html"><img src="./images/G4.png"></a></div>
 
 	</div>
 </header>
