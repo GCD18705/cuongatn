@@ -25,15 +25,6 @@
       					<li class="nav-item">
         					<a class="nav-link" href="ltc2.html">Insert</a>
       					</li>
-      					<li class="nav-item dropdown">
-        					<a class="nav-link dropdown-toggle" href="ltc.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Soccer Shoes</a>
-        				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          					<a class="dropdown-item" href="#">Adidas Soccer Shoes</a>
-          					<a class="dropdown-item" href="#">Nike Soccer Shoes</a>
-          					<a class="dropdown-item" href="#">Mizuno Soccer Shoes</a>
-          					<a class="dropdown-item" href="#">Children's Soccer Shoes</a>
-        				</div>
-        				</li>
 
         				<li class="nav-item">
         					<a class="nav-link" href="ltc2.html">Update</a>
